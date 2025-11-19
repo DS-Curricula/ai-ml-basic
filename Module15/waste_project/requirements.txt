@@ -1,1 +1,1 @@
-skicit-learn
+scikit-learn
